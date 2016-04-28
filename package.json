@@ -1,0 +1,11 @@
+{
+	"name": "censortext",
+	"author": "SKR",
+	"version": "0.0.1",
+	"description": "Censors the words identified from the string passed",
+	"main": "censortext",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
